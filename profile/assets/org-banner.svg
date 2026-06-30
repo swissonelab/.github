@@ -33,7 +33,7 @@
   <text x="338" y="146" font-size="78" font-weight="800" fill="#EDEDEF" letter-spacing="-1.5"><tspan fill="#d69e2e">S</tspan>wiss<tspan fill="#d69e2e">O</tspan>ne<tspan fill="#d69e2e">L</tspan>ab</text>
 
   <!-- Tagline (bicolor: Automate blue, Secure red) -->
-  <text x="340" y="196" font-size="29" font-weight="600" letter-spacing="0.2" xml:space="preserve"><tspan fill="#3A7FFF">Automate </tspan><tspan fill="#8B8B8E">Everything &amp; </tspan><tspan fill="#FF4D5A">Secure </tspan><tspan fill="#8B8B8E">Everywhere</tspan></text>
+  <text x="340" y="196" font-size="29" font-weight="600" letter-spacing="0.2" xml:space="preserve"><tspan fill="#3A7FFF">Automate </tspan><tspan fill="#EDEDEF" font-weight="700">Everything </tspan><tspan fill="#8B8B8E">&amp; </tspan><tspan fill="#FF4D5A">Secure </tspan><tspan fill="#EDEDEF" font-weight="700">Everywhere</tspan></text>
 
   <!-- Domains / positioning line -->
   <text x="342" y="240" font-size="15.5" font-weight="600" fill="#5C5C5F" letter-spacing="3.5">PLATFORM ENGINEERING — SECURITY — AUTOMATION — AI</text>
