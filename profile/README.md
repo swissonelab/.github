@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/271756036?v=4" width="110" alt="Swiss One Lab"/>
+<img src="https://raw.githubusercontent.com/swissonelab/.github/main/profile/assets/org-banner-dark.png" alt="Swiss One Lab — Automate Everything &amp; Secure Everywhere" width="100%"/>
 
-# Swiss One Lab
-
-### Automate Everything & Secure Everywhere
+<br/>
 
 *A unified environment for developers, systems engineers, and cybersecurity researchers.*
 
@@ -16,11 +14,14 @@
 
 ---
 
-### Who we are
+### What it is
 
-**Swiss One Lab** is a modular engineering platform built for **resilience** and **digital sovereignty**.
-We design secure, automated, AI-assisted systems — and craft **local-first** software that keeps data
-under its owner's control.
+Swiss One Lab designs **coherent, secure, automation-first platform environments** for professional operations.
+
+- Secure, multi-environment platform architecture
+- Automation, observability &amp; governance built in by design
+- AI-assisted operations — ship faster, more reliably
+- **Local-first &amp; sovereign** — software that keeps data under its owner's control
 
 ---
 
@@ -37,6 +38,13 @@ under its owner's control.
 
 ---
 
+### Current status
+
+> **Currently in private development.** Public technical notes and release previews are coming soon.
+> Operational access is reserved to approved users and controlled environments.
+
+---
+
 ### Principles
 
 - **Security-first** — hardening and governance built in, not bolted on
@@ -48,12 +56,10 @@ under its owner's control.
 
 <div align="center">
 
-**A sovereign suite of applications is in active development.**
+Founded and led by **[@jabbeng](https://github.com/jabbeng)**
 
 <sub>"Automate Everything &amp; Secure Everywhere"</sub>
 
-**[swissonelab.com](https://swissonelab.com)** · Geneva, Switzerland
-
-<code>zsh · automation · devops · ai · cybersecurity · dotfiles · mcp · macos · linux</code>
+**[swissonelab.com](https://swissonelab.com)** · Geneva, Switzerland · `contact@swissonelab.com`
 
 </div>
